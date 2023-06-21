@@ -1,0 +1,115 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "tmx/PortobelloBrook.tmx",
+    "expandedProjectPaths": [
+        ".",
+        "tsx",
+        "tmx"
+    ],
+    "fileStates": {
+        "tmx/Portobello Brook(F).tmx": {
+            "scale": 0.25,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1778,
+                "y": 2344
+            }
+        },
+        "tmx/Portobello Brook.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 1486.3636363636365,
+                "y": 803.0303030303031
+            }
+        },
+        "tmx/PortobelloBrook.tmx": {
+            "scale": 0.33,
+            "selectedLayer": 5,
+            "viewCenter": {
+                "x": 1477.2727272727273,
+                "y": 1912.1212121212122
+            }
+        },
+        "tsx/Floor.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.5,
+            "scaleInEditor": 1
+        },
+        "tsx/Floor2.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "tsx/Mobs.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "tsx/Mushrooms.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/MushroomsBig.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "tsx/Objects.tsx": {
+            "dynamicWrapping": true,
+            "scaleInDock": 0.25,
+            "scaleInEditor": 1
+        },
+        "tsx/Other Objects.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 0.33,
+            "scaleInEditor": 1
+        },
+        "tsx/Stone Path.tsx": {
+            "dynamicWrapping": false,
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/User/Desktop/Sacramentum/DATA",
+    "last.imagePath": "C:/Users/User/Desktop/Sacramentum/SPRITES/Capstone files/Slime",
+    "map.height": 80,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.tileHeight": 64,
+    "map.tileWidth": 64,
+    "map.width": 50,
+    "openFiles": [
+        "tmx/PortobelloBrook.tmx",
+        "tsx/Floor2.tsx",
+        "tsx/Other Objects.tsx",
+        "tsx/Objects.tsx",
+        "tsx/Mushrooms.tsx",
+        "tsx/MushroomsBig.tsx",
+        "tsx/Mobs.tsx"
+    ],
+    "project": "Mushroom Kingdom.tiled-project",
+    "recentFiles": [
+        "tsx/Mobs.tsx",
+        "tsx/MushroomsBig.tsx",
+        "tsx/Mushrooms.tsx",
+        "tsx/Objects.tsx",
+        "tsx/Other Objects.tsx",
+        "tsx/Floor2.tsx",
+        "tmx/PortobelloBrook.tmx",
+        "tmx/Portobello Brook.tmx",
+        "tmx/Portobello Brook(F).tmx",
+        "tsx/Floor.tsx",
+        "tsx/Stone Path.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 64,
+        "width": 64
+    },
+    "tileset.type": 0
+}
